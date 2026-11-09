@@ -1,0 +1,22 @@
+body{
+  background-color: orangered;
+  color: rgb(255, 255, 255);
+}
+
+section{
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  margin: 20px;
+}
+
+#smoli-container{
+  background-color: cyan;
+  display: flex;
+  justify-content: space-between;
+}
+
+.second-text{
+  background-color: rgb(218, 97, 255);
+  padding: 12px;
+}
