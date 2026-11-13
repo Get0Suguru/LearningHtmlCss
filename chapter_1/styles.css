@@ -20,3 +20,8 @@ section{
   background-color: rgb(218, 97, 255);
   padding: 12px;
 }
+
+#header-text{
+  color: rgb(0, 253, 106);
+  letter-spacing: 2px;
+}

@@ -1,0 +1,9 @@
+/* #1 select everything key *  i) used to remove the default styles */
+/* # seleccts the "id"  */
+/* .selects the class  */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
